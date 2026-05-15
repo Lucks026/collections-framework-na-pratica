@@ -1,7 +1,4 @@
-Collections Framework na Pratica
-
-Estava estudando Collections em Java e queria testar cada estrutura em algo real. Usei o contexto de uma clínica médica porque envolve filas, buscas rápidas e listas ordenadas — situações que deixam claro por que a escolha da estrutura importa.
-Só JDK, sem dependência externa.
+Collections Framework
 
 ---
 
